@@ -149,6 +149,7 @@ pytz=2021.3=pyhd3eb1b0_0
 pyzmq=22.3.0=py39h37b5a0c_1
 readline=8.1=h27cfd23_0
 requests=2.26.0=pyhd8ed1ab_0
+rise=5.7.1=pypi_0
 scikit-learn=1.0.1=pypi_0
 scipy=1.7.2=py39hee8e79c_0
 seaborn=0.11.2=hd8ed1ab_0
