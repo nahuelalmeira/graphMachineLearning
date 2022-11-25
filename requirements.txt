@@ -1,10 +1,12 @@
+ipywidgets
+jupyterlab
 matplotlib
 numpy
 pandas
-jupyterlab
 scikit-learn
 seaborn
 torch
+widgetsnbextension
 
 # Graph libraries
 cdlib
